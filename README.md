@@ -1,1 +1,1 @@
-# simple-interest-demo
+# simple-interest-dm
